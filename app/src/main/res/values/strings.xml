@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Space</string>
+    <string name="title_activity_member">MemberActivity</string>
+    <string name="ic_corner">Button</string>
+    <string name="setTime">Click to Set Time</string>
+    <string name="setDate">Click to Set Date</string>
+</resources>

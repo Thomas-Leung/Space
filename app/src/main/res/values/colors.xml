@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#ab47bc</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#000000</color>
+    <color name="gradStart">#b0bec5</color>
+    <color name="gradStop">#4527a0</color>
+    <!-- #E3F2FD #ffcc80  #CDDC39 #ab47bc-->
+
+    <color name="cardColor">#4527a0</color>
+    <color name="rvtext">#FFFFFF</color>
+
+</resources>
