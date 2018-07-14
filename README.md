@@ -4,5 +4,8 @@ The goal is to create an app that is intuitive to use and create events efficien
 
 ## Screenshots
 #### Sign in/ sign up
+<img src="Screenshots/Screenshot1.png" width="25%" />&emsp;<img src="Screenshots/Screenshot2.png" width="25%" /> </br>
+p.s. I did not design the logo of the app.
 
-<img src="Screenshots/Screenshot1.png" width="25%" />&emsp;<img src="Screenshots/Screenshot2.png" width="25%" />
+#### Main page
+
